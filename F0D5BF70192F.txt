@@ -1,0 +1,11 @@
+{
+    "device_id": "F0D5BF70192F",
+    "computer_name": "DESKTOP-ACL6E7N",
+    "ram_capacity": "8 GB",
+    "hdd_capacity": "130 GB",
+    "os_info": "Windows 10",
+    "reinstallation_date": "01/10/2024",
+    "warranty_period_months": 88888,
+    "warranty_expiration": "06/10/9325",
+    "warranty_content": "AutoCad, Sketchup,revit"
+}
