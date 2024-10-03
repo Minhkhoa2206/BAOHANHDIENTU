@@ -1,0 +1,11 @@
+{
+    "device_id": "F0D5BF70192F",
+    "computer_name": "TKXDMINHKHOA",
+    "ram_capacity": "8 GB",
+    "hdd_capacity": "130 GB",
+    "os_info": "Windows 10",
+    "reinstallation_date": "01/10/2024",
+    "warranty_period_months": 33,
+    "warranty_expiration": "18/06/2027",
+    "warranty_content": ""
+}
