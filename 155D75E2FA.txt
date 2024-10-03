@@ -1,0 +1,11 @@
+{
+    "device_id": "155D75E2FA",
+    "computer_name": "3be7ea27-bb61-4bcc-9f92-f464942b244d",
+    "ram_capacity": "4 GB",
+    "hdd_capacity": "40 GB",
+    "os_info": "Windows 10",
+    "reinstallation_date": "03/10/2024",
+    "warranty_period_months": 4,
+    "warranty_expiration": "31/01/2025",
+    "warranty_content": "Bao hanh Nhan canh"
+}
