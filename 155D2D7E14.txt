@@ -1,0 +1,11 @@
+{
+    "device_id": "155D2D7E14",
+    "computer_name": "e3d32c6b-7a47-4aae-a4d0-e1f8b1c79fa8",
+    "ram_capacity": "4 GB",
+    "hdd_capacity": "40 GB",
+    "os_info": "Windows 10",
+    "reinstallation_date": "05/10/2024",
+    "warranty_period_months": 4,
+    "warranty_expiration": "02/02/2025",
+    "warranty_content": "Bao Hanh: AutoCAD, Revit"
+}
