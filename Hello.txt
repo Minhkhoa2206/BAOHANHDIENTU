@@ -1,0 +1,11 @@
+{
+    "device_id": "F0D5BF70192F",
+    "computer_name": "TKXDMINHKHOA",
+    "ram_capacity": "8 GB",
+    "hdd_capacity": "130 GB",
+    "os_info": "Windows 10",
+    "reinstallation_date": "05/10/2024",
+    "warranty_period_months": 4,
+    "warranty_expiration": "02/02/2025",
+    "warranty_content": "B\u1ea3o H\u00e0nh C\u00e0i \u0110\u1eb7t Ph\u1ea7n M\u1ec1m: AutoCAD, Office, SketChup, Revit"
+}
