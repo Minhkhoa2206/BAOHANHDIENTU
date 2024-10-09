@@ -1,0 +1,11 @@
+{
+    "device_id": "A4423B20468E",
+    "computer_name": "S\u01a1n-iconer",
+    "ram_capacity": "8 GB",
+    "hdd_capacity": "238 GB",
+    "os_info": "Windows 11",
+    "reinstallation_date": "09/10/2024",
+    "warranty_period_months": 4,
+    "warranty_expiration": "06/02/2025",
+    "warranty_content": "B\u1ea3o H\u00e0nh Ph\u1ea7n M\u1ec1m AutoCAD 2022 - ID 9CB209E0-F300-4E51-9342-CE9F53DBF511"
+}
