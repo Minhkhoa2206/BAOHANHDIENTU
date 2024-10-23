@@ -1,0 +1,11 @@
+{
+    "device_id": "E52CADCBA1",
+    "computer_name": "DESKTOP-2D3KSPA",
+    "ram_capacity": "32 GB",
+    "hdd_capacity": "238 GB",
+    "os_info": "Windows 10",
+    "reinstallation_date": "23/10/2024",
+    "warranty_period_months": 4,
+    "warranty_expiration": "20/02/2025",
+    "warranty_content": "Vray 6 Sketchup 2023"
+}
