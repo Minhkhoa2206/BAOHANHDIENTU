@@ -1,0 +1,11 @@
+{
+    "device_id": "F0D5BF70192F",
+    "computer_name": "DESKTOP-EFADFIK",
+    "ram_capacity": "8 GB",
+    "hdd_capacity": "130 GB",
+    "os_info": "Windows 11",
+    "reinstallation_date": "30/10/2023",
+    "warranty_period_months": 3,
+    "warranty_expiration": "28/01/2024",
+    "warranty_content": "AutoCAD"
+}
