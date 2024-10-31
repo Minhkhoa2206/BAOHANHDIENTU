@@ -1,0 +1,11 @@
+{
+    "device_id": "3C7C3F28F2F8",
+    "computer_name": "Administrator",
+    "ram_capacity": "16 GB",
+    "hdd_capacity": "111 GB",
+    "os_info": "Windows 10",
+    "reinstallation_date": "31/10/2024",
+    "warranty_period_months": 4,
+    "warranty_expiration": "28/02/2025",
+    "warranty_content": "Enscape3D 3.5.0 for Sketchup 2023"
+}
