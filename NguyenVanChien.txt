@@ -1,0 +1,11 @@
+{
+    "device_id": "E7926AD4FAC2",
+    "computer_name": "S\u01a1n-iconer",
+    "ram_capacity": "8 GB",
+    "hdd_capacity": "238 GB",
+    "os_info": "Windows 11",
+    "reinstallation_date": "01/11/2024",
+    "warranty_period_months": 12,
+    "warranty_expiration": "27/10/2025",
+    "warranty_content": "AutoDesk Revit 2024"
+}
