@@ -1,0 +1,11 @@
+{
+    "device_id": "C85B76853D0D",
+    "computer_name": "DESKTOP-EFADFIK",
+    "ram_capacity": "8 GB",
+    "hdd_capacity": "130 GB",
+    "os_info": "Windows 11",
+    "reinstallation_date": "01/11/2024",
+    "warranty_period_months": 1,
+    "warranty_expiration": "01/12/2024",
+    "warranty_content": "23"
+}
